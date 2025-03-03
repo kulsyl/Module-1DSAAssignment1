@@ -8,7 +8,7 @@ num2=parseInt(num2);
 
 if (isNaN(num1) || isNaN(num2)){
     console.log("Please enter a valid number");
-    return;
+   
 }
 else {
     if(operator==="+"){
